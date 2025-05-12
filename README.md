@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mariam Erica! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<h3 align="center">Business Analyst Intern </h3>
+<h3 align="center">Business Analyst </h3>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 - 🔭 currently I’m working on **Developing interactive Power BI dashboards for business insights and reporting.**
